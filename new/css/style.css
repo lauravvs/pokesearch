@@ -1,0 +1,28 @@
+body {
+  background-image: url(../dd2zouo-047f7b3f-b895-43ac-82a4-abb6ca12c52a.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-size: 100vw;
+}
+h1 {
+  text-align: center;
+  padding: 50px;
+  font-family: "Press Start 2P", cursive;
+  color: rgb(234, 192, 84);
+}
+h2 {
+  font-family: "Freckle Face", cursive;
+  color: rgb(218, 30, 30);
+}
+.box {
+  margin-top: 70px;
+}
+#image {
+  width: 250px;
+}
+
+#btn_trainer {
+  background-color: crimson;
+  color: aliceblue;
+  font-size: 1.5rem;
+}
